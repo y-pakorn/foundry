@@ -20,5 +20,5 @@ syn = "2.0"
 foundry-macros.workspace = true
 
 ethers-core.workspace = true
-ethers-contract = { workspace = true, features = ["abigen", "providers"] }
+ethers-contract = { workspace = true, features = ["abigen"] }
 ethers-providers.workspace = true
